@@ -1,0 +1,7 @@
+uncalled4 train GCA_024500395.1_UCI_ORw1118_1.0_genomic.fna raw/ --bam-in mm2/pass_shuf_100k_pri.bam --init-mode moves --train-iterations 2 -k 1  --kmer-shift 0 --out-dir train/moves_k1 -p 8
+uncalled4 train GCA_024500395.1_UCI_ORw1118_1.0_genomic.fna raw/ --bam-in mm2/pass_shuf_100k_pri.bam --train-iterations 2 -p 8 --init-model train/moves_k1/it2.model.npz -k 2 --kmer-shift 0 --out-dir train/moves_k1/it2.k2
+uncalled4 train GCA_024500395.1_UCI_ORw1118_1.0_genomic.fna raw/ --bam-in mm2/pass_shuf_100k_pri.bam --train-iterations 2 -p 8 --init-model train/moves_k1/it2.k2/it2.model.npz -k 3 --kmer-shift 1 --out-dir train/moves_k1/it2.k2/it2.k3
+uncalled4 train GCA_024500395.1_UCI_ORw1118_1.0_genomic.fna raw/ --bam-in mm2/pass_shuf_100k_pri.bam --train-iterations 2 -p 8 --init-model train/moves_k1/it2.k2/it2.k3/it2.model.npz -k 4 --kmer-shift 1 --out-dir train/moves_k1/it2.k2/it2.k3/it2.k4
+uncalled4 train GCA_024500395.1_UCI_ORw1118_1.0_genomic.fna raw/ --bam-in mm2/pass_shuf_100k_pri.bam --train-iterations 2 -p 8 --init-model train/moves_k1/it2.k2/it2.k3/it2.k4/it2.model.npz -k 5 --kmer-shift 2 --out-dir train/moves_k1/it2.k2/it2.k3/it2.k4/it2.k5
+uncalled4 train GCA_024500395.1_UCI_ORw1118_1.0_genomic.fna raw/ --bam-in mm2/pass_shuf_100k_pri.bam --train-iterations 2 -p 8 --init-model train/moves_k1/it2.k2/it2.k3/it2.k4/it2.k5/it2.model.npz -k 6 --kmer-shift 2 --out-dir train/moves_k1/it2.k2/it2.k3/it2.k4/it2.k5/it2.k6
+#final k-mer model found in train/moves_k1/it2.k2/it2.k3/it2.k4/it2.k5/it2.k6/it2.model.npz

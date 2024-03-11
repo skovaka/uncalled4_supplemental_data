@@ -1,0 +1,1 @@
+/usr/bin/time -v m6anet train --model_config /home/skovaka/sw/m6anet/m6anet/model/configs/model_configs/m6anet.toml --train_config config.toml --save_dir . --device cuda:0 --epochs 60 --n_processes 12 --save_per_epoch 1 --num_iterations 5 > train_out.txt

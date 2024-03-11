@@ -1,0 +1,253 @@
+Saving training information to uncalled/train_new/train_pri_bam_fwd
+There are 113570 train sites
+There are 29181 val sites
+There are 21845 test sites
+Epoch:[1/60] 	 train time:33s 	 val time:26s 	 (59s)
+Train Loss:0.73	 Train ROC AUC: 0.776	 Train PR AUC: 0.710
+Val Loss:0.44 	 Val ROC AUC: 0.889	 Val PR AUC: 0.382
+=====================================
+Epoch:[2/60] 	 train time:32s 	 val time:26s 	 (117s)
+Train Loss:0.43	 Train ROC AUC: 0.887	 Train PR AUC: 0.892
+Val Loss:0.38 	 Val ROC AUC: 0.912	 Val PR AUC: 0.429
+=====================================
+Epoch:[3/60] 	 train time:33s 	 val time:27s 	 (176s)
+Train Loss:0.40	 Train ROC AUC: 0.902	 Train PR AUC: 0.904
+Val Loss:0.40 	 Val ROC AUC: 0.919	 Val PR AUC: 0.441
+=====================================
+Epoch:[4/60] 	 train time:33s 	 val time:26s 	 (235s)
+Train Loss:0.39	 Train ROC AUC: 0.907	 Train PR AUC: 0.909
+Val Loss:0.34 	 Val ROC AUC: 0.924	 Val PR AUC: 0.449
+=====================================
+Epoch:[5/60] 	 train time:32s 	 val time:25s 	 (292s)
+Train Loss:0.38	 Train ROC AUC: 0.912	 Train PR AUC: 0.913
+Val Loss:0.39 	 Val ROC AUC: 0.926	 Val PR AUC: 0.461
+=====================================
+Epoch:[6/60] 	 train time:33s 	 val time:28s 	 (353s)
+Train Loss:0.37	 Train ROC AUC: 0.915	 Train PR AUC: 0.916
+Val Loss:0.32 	 Val ROC AUC: 0.929	 Val PR AUC: 0.469
+=====================================
+Epoch:[7/60] 	 train time:33s 	 val time:27s 	 (413s)
+Train Loss:0.37	 Train ROC AUC: 0.917	 Train PR AUC: 0.917
+Val Loss:0.35 	 Val ROC AUC: 0.931	 Val PR AUC: 0.470
+=====================================
+Epoch:[8/60] 	 train time:33s 	 val time:27s 	 (473s)
+Train Loss:0.36	 Train ROC AUC: 0.920	 Train PR AUC: 0.919
+Val Loss:0.33 	 Val ROC AUC: 0.932	 Val PR AUC: 0.472
+=====================================
+Epoch:[9/60] 	 train time:34s 	 val time:29s 	 (536s)
+Train Loss:0.36	 Train ROC AUC: 0.923	 Train PR AUC: 0.921
+Val Loss:0.32 	 Val ROC AUC: 0.932	 Val PR AUC: 0.472
+=====================================
+Epoch:[10/60] 	 train time:35s 	 val time:30s 	 (601s)
+Train Loss:0.36	 Train ROC AUC: 0.923	 Train PR AUC: 0.922
+Val Loss:0.35 	 Val ROC AUC: 0.932	 Val PR AUC: 0.473
+=====================================
+Epoch:[11/60] 	 train time:36s 	 val time:30s 	 (668s)
+Train Loss:0.35	 Train ROC AUC: 0.927	 Train PR AUC: 0.924
+Val Loss:0.32 	 Val ROC AUC: 0.933	 Val PR AUC: 0.468
+=====================================
+Epoch:[12/60] 	 train time:35s 	 val time:30s 	 (733s)
+Train Loss:0.35	 Train ROC AUC: 0.927	 Train PR AUC: 0.925
+Val Loss:0.31 	 Val ROC AUC: 0.932	 Val PR AUC: 0.464
+=====================================
+Epoch:[13/60] 	 train time:35s 	 val time:30s 	 (798s)
+Train Loss:0.34	 Train ROC AUC: 0.928	 Train PR AUC: 0.925
+Val Loss:0.34 	 Val ROC AUC: 0.934	 Val PR AUC: 0.475
+=====================================
+Epoch:[14/60] 	 train time:36s 	 val time:30s 	 (865s)
+Train Loss:0.34	 Train ROC AUC: 0.929	 Train PR AUC: 0.926
+Val Loss:0.32 	 Val ROC AUC: 0.932	 Val PR AUC: 0.465
+=====================================
+Epoch:[15/60] 	 train time:37s 	 val time:30s 	 (931s)
+Train Loss:0.34	 Train ROC AUC: 0.931	 Train PR AUC: 0.928
+Val Loss:0.31 	 Val ROC AUC: 0.931	 Val PR AUC: 0.466
+=====================================
+Epoch:[16/60] 	 train time:35s 	 val time:28s 	 (994s)
+Train Loss:0.33	 Train ROC AUC: 0.932	 Train PR AUC: 0.929
+Val Loss:0.33 	 Val ROC AUC: 0.933	 Val PR AUC: 0.469
+=====================================
+Epoch:[17/60] 	 train time:35s 	 val time:28s 	 (1057s)
+Train Loss:0.33	 Train ROC AUC: 0.934	 Train PR AUC: 0.930
+Val Loss:0.30 	 Val ROC AUC: 0.933	 Val PR AUC: 0.465
+=====================================
+Epoch:[18/60] 	 train time:34s 	 val time:27s 	 (1119s)
+Train Loss:0.33	 Train ROC AUC: 0.933	 Train PR AUC: 0.929
+Val Loss:0.34 	 Val ROC AUC: 0.934	 Val PR AUC: 0.469
+=====================================
+Epoch:[19/60] 	 train time:34s 	 val time:28s 	 (1182s)
+Train Loss:0.33	 Train ROC AUC: 0.935	 Train PR AUC: 0.930
+Val Loss:0.31 	 Val ROC AUC: 0.933	 Val PR AUC: 0.466
+=====================================
+Epoch:[20/60] 	 train time:34s 	 val time:29s 	 (1245s)
+Train Loss:0.33	 Train ROC AUC: 0.935	 Train PR AUC: 0.931
+Val Loss:0.37 	 Val ROC AUC: 0.932	 Val PR AUC: 0.460
+=====================================
+Epoch:[21/60] 	 train time:35s 	 val time:28s 	 (1307s)
+Train Loss:0.33	 Train ROC AUC: 0.936	 Train PR AUC: 0.931
+Val Loss:0.30 	 Val ROC AUC: 0.933	 Val PR AUC: 0.463
+=====================================
+Epoch:[22/60] 	 train time:35s 	 val time:28s 	 (1370s)
+Train Loss:0.32	 Train ROC AUC: 0.937	 Train PR AUC: 0.932
+Val Loss:0.33 	 Val ROC AUC: 0.932	 Val PR AUC: 0.465
+=====================================
+Epoch:[23/60] 	 train time:35s 	 val time:28s 	 (1433s)
+Train Loss:0.32	 Train ROC AUC: 0.937	 Train PR AUC: 0.932
+Val Loss:0.28 	 Val ROC AUC: 0.934	 Val PR AUC: 0.466
+=====================================
+Epoch:[24/60] 	 train time:35s 	 val time:29s 	 (1497s)
+Train Loss:0.32	 Train ROC AUC: 0.938	 Train PR AUC: 0.933
+Val Loss:0.31 	 Val ROC AUC: 0.933	 Val PR AUC: 0.461
+=====================================
+Epoch:[25/60] 	 train time:34s 	 val time:30s 	 (1561s)
+Train Loss:0.32	 Train ROC AUC: 0.939	 Train PR AUC: 0.933
+Val Loss:0.34 	 Val ROC AUC: 0.932	 Val PR AUC: 0.465
+=====================================
+Epoch:[26/60] 	 train time:35s 	 val time:30s 	 (1625s)
+Train Loss:0.32	 Train ROC AUC: 0.939	 Train PR AUC: 0.933
+Val Loss:0.30 	 Val ROC AUC: 0.932	 Val PR AUC: 0.467
+=====================================
+Epoch:[27/60] 	 train time:35s 	 val time:29s 	 (1689s)
+Train Loss:0.32	 Train ROC AUC: 0.940	 Train PR AUC: 0.934
+Val Loss:0.32 	 Val ROC AUC: 0.932	 Val PR AUC: 0.464
+=====================================
+Epoch:[28/60] 	 train time:35s 	 val time:29s 	 (1752s)
+Train Loss:0.32	 Train ROC AUC: 0.940	 Train PR AUC: 0.934
+Val Loss:0.31 	 Val ROC AUC: 0.932	 Val PR AUC: 0.463
+=====================================
+Epoch:[29/60] 	 train time:35s 	 val time:28s 	 (1815s)
+Train Loss:0.32	 Train ROC AUC: 0.939	 Train PR AUC: 0.934
+Val Loss:0.32 	 Val ROC AUC: 0.932	 Val PR AUC: 0.469
+=====================================
+Epoch:[30/60] 	 train time:34s 	 val time:28s 	 (1877s)
+Train Loss:0.32	 Train ROC AUC: 0.940	 Train PR AUC: 0.935
+Val Loss:0.28 	 Val ROC AUC: 0.932	 Val PR AUC: 0.474
+=====================================
+Epoch:[31/60] 	 train time:35s 	 val time:30s 	 (1943s)
+Train Loss:0.32	 Train ROC AUC: 0.940	 Train PR AUC: 0.934
+Val Loss:0.34 	 Val ROC AUC: 0.932	 Val PR AUC: 0.464
+=====================================
+Epoch:[32/60] 	 train time:35s 	 val time:28s 	 (2006s)
+Train Loss:0.31	 Train ROC AUC: 0.941	 Train PR AUC: 0.935
+Val Loss:0.28 	 Val ROC AUC: 0.933	 Val PR AUC: 0.466
+=====================================
+Epoch:[33/60] 	 train time:34s 	 val time:27s 	 (2068s)
+Train Loss:0.31	 Train ROC AUC: 0.941	 Train PR AUC: 0.935
+Val Loss:0.30 	 Val ROC AUC: 0.931	 Val PR AUC: 0.463
+=====================================
+Epoch:[34/60] 	 train time:34s 	 val time:26s 	 (2128s)
+Train Loss:0.31	 Train ROC AUC: 0.942	 Train PR AUC: 0.936
+Val Loss:0.33 	 Val ROC AUC: 0.933	 Val PR AUC: 0.468
+=====================================
+Epoch:[35/60] 	 train time:28s 	 val time:25s 	 (2180s)
+Train Loss:0.31	 Train ROC AUC: 0.942	 Train PR AUC: 0.936
+Val Loss:0.30 	 Val ROC AUC: 0.931	 Val PR AUC: 0.468
+=====================================
+Epoch:[36/60] 	 train time:27s 	 val time:24s 	 (2231s)
+Train Loss:0.31	 Train ROC AUC: 0.942	 Train PR AUC: 0.936
+Val Loss:0.28 	 Val ROC AUC: 0.933	 Val PR AUC: 0.473
+=====================================
+Epoch:[37/60] 	 train time:31s 	 val time:24s 	 (2286s)
+Train Loss:0.31	 Train ROC AUC: 0.943	 Train PR AUC: 0.938
+Val Loss:0.33 	 Val ROC AUC: 0.933	 Val PR AUC: 0.462
+=====================================
+Epoch:[38/60] 	 train time:25s 	 val time:21s 	 (2331s)
+Train Loss:0.31	 Train ROC AUC: 0.943	 Train PR AUC: 0.937
+Val Loss:0.32 	 Val ROC AUC: 0.931	 Val PR AUC: 0.461
+=====================================
+Epoch:[39/60] 	 train time:25s 	 val time:22s 	 (2378s)
+Train Loss:0.31	 Train ROC AUC: 0.944	 Train PR AUC: 0.938
+Val Loss:0.30 	 Val ROC AUC: 0.932	 Val PR AUC: 0.472
+=====================================
+Epoch:[40/60] 	 train time:25s 	 val time:20s 	 (2423s)
+Train Loss:0.31	 Train ROC AUC: 0.943	 Train PR AUC: 0.937
+Val Loss:0.30 	 Val ROC AUC: 0.932	 Val PR AUC: 0.469
+=====================================
+Epoch:[41/60] 	 train time:23s 	 val time:21s 	 (2467s)
+Train Loss:0.31	 Train ROC AUC: 0.944	 Train PR AUC: 0.938
+Val Loss:0.30 	 Val ROC AUC: 0.932	 Val PR AUC: 0.468
+=====================================
+Epoch:[42/60] 	 train time:24s 	 val time:21s 	 (2512s)
+Train Loss:0.31	 Train ROC AUC: 0.944	 Train PR AUC: 0.938
+Val Loss:0.29 	 Val ROC AUC: 0.932	 Val PR AUC: 0.454
+=====================================
+Epoch:[43/60] 	 train time:24s 	 val time:23s 	 (2559s)
+Train Loss:0.30	 Train ROC AUC: 0.945	 Train PR AUC: 0.938
+Val Loss:0.31 	 Val ROC AUC: 0.930	 Val PR AUC: 0.465
+=====================================
+Epoch:[44/60] 	 train time:33s 	 val time:27s 	 (2619s)
+Train Loss:0.30	 Train ROC AUC: 0.945	 Train PR AUC: 0.938
+Val Loss:0.33 	 Val ROC AUC: 0.931	 Val PR AUC: 0.459
+=====================================
+Epoch:[45/60] 	 train time:32s 	 val time:33s 	 (2684s)
+Train Loss:0.30	 Train ROC AUC: 0.945	 Train PR AUC: 0.938
+Val Loss:0.29 	 Val ROC AUC: 0.932	 Val PR AUC: 0.466
+=====================================
+Epoch:[46/60] 	 train time:35s 	 val time:31s 	 (2750s)
+Train Loss:0.30	 Train ROC AUC: 0.945	 Train PR AUC: 0.939
+Val Loss:0.29 	 Val ROC AUC: 0.931	 Val PR AUC: 0.469
+=====================================
+Epoch:[47/60] 	 train time:35s 	 val time:31s 	 (2816s)
+Train Loss:0.30	 Train ROC AUC: 0.945	 Train PR AUC: 0.939
+Val Loss:0.31 	 Val ROC AUC: 0.931	 Val PR AUC: 0.469
+=====================================
+Epoch:[48/60] 	 train time:35s 	 val time:32s 	 (2883s)
+Train Loss:0.30	 Train ROC AUC: 0.945	 Train PR AUC: 0.939
+Val Loss:0.32 	 Val ROC AUC: 0.930	 Val PR AUC: 0.457
+=====================================
+Epoch:[49/60] 	 train time:35s 	 val time:32s 	 (2950s)
+Train Loss:0.30	 Train ROC AUC: 0.946	 Train PR AUC: 0.940
+Val Loss:0.32 	 Val ROC AUC: 0.931	 Val PR AUC: 0.469
+=====================================
+Epoch:[50/60] 	 train time:35s 	 val time:31s 	 (3016s)
+Train Loss:0.30	 Train ROC AUC: 0.946	 Train PR AUC: 0.940
+Val Loss:0.27 	 Val ROC AUC: 0.932	 Val PR AUC: 0.472
+=====================================
+Epoch:[51/60] 	 train time:35s 	 val time:31s 	 (3083s)
+Train Loss:0.30	 Train ROC AUC: 0.946	 Train PR AUC: 0.940
+Val Loss:0.29 	 Val ROC AUC: 0.933	 Val PR AUC: 0.469
+=====================================
+Epoch:[52/60] 	 train time:35s 	 val time:32s 	 (3150s)
+Train Loss:0.30	 Train ROC AUC: 0.946	 Train PR AUC: 0.940
+Val Loss:0.30 	 Val ROC AUC: 0.931	 Val PR AUC: 0.469
+=====================================
+Epoch:[53/60] 	 train time:36s 	 val time:31s 	 (3217s)
+Train Loss:0.30	 Train ROC AUC: 0.947	 Train PR AUC: 0.940
+Val Loss:0.31 	 Val ROC AUC: 0.933	 Val PR AUC: 0.468
+=====================================
+Epoch:[54/60] 	 train time:36s 	 val time:31s 	 (3284s)
+Train Loss:0.30	 Train ROC AUC: 0.947	 Train PR AUC: 0.940
+Val Loss:0.27 	 Val ROC AUC: 0.932	 Val PR AUC: 0.467
+=====================================
+Epoch:[55/60] 	 train time:34s 	 val time:30s 	 (3348s)
+Train Loss:0.30	 Train ROC AUC: 0.947	 Train PR AUC: 0.940
+Val Loss:0.31 	 Val ROC AUC: 0.930	 Val PR AUC: 0.465
+=====================================
+Epoch:[56/60] 	 train time:34s 	 val time:30s 	 (3412s)
+Train Loss:0.30	 Train ROC AUC: 0.947	 Train PR AUC: 0.940
+Val Loss:0.28 	 Val ROC AUC: 0.930	 Val PR AUC: 0.459
+=====================================
+Epoch:[57/60] 	 train time:34s 	 val time:30s 	 (3475s)
+Train Loss:0.29	 Train ROC AUC: 0.948	 Train PR AUC: 0.941
+Val Loss:0.32 	 Val ROC AUC: 0.932	 Val PR AUC: 0.465
+=====================================
+Epoch:[58/60] 	 train time:34s 	 val time:28s 	 (3538s)
+Train Loss:0.30	 Train ROC AUC: 0.947	 Train PR AUC: 0.941
+Val Loss:0.27 	 Val ROC AUC: 0.933	 Val PR AUC: 0.469
+=====================================
+Epoch:[59/60] 	 train time:33s 	 val time:28s 	 (3598s)
+Train Loss:0.29	 Train ROC AUC: 0.948	 Train PR AUC: 0.941
+Val Loss:0.30 	 Val ROC AUC: 0.930	 Val PR AUC: 0.469
+=====================================
+Epoch:[60/60] 	 train time:34s 	 val time:28s 	 (3660s)
+Train Loss:0.29	 Train ROC AUC: 0.948	 Train PR AUC: 0.942
+Val Loss:0.30 	 Val ROC AUC: 0.931	 Val PR AUC: 0.468
+=====================================
+Criteria: avg_loss 	Compute time: 32.988
+Test Loss: 0.242 	Test ROC AUC: 0.922 	 Test PR AUC: 0.503
+=====================================
+Criteria: roc_auc 	Compute time: 29.908
+Test Loss: 0.307 	Test ROC AUC: 0.926 	 Test PR AUC: 0.498
+=====================================
+Criteria: pr_auc 	Compute time: 30.267
+Test Loss: 0.306 	Test ROC AUC: 0.923 	 Test PR AUC: 0.495
+=====================================

@@ -1,0 +1,2 @@
+Results based on multiple replicates mapping to the transcriptome, including multimappers, and m6Anet output was mapped to genome cooraintes using Ensembl annotations version 91
+"unc/" contains results based on uncalled4 alinments, "npl/" is based on nanopolish alignments

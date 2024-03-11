@@ -1,0 +1,6 @@
+uncalled train Homo_sapiens.GRCh38.91.clean.fa raw/ --bam-in mm2/pass_new_pri_ns.bam --train-iterations 3 --rna --init-mode moves -k 1 --kmer-shift 0 --out-dir train/moves_k1 
+uncalled train Homo_sapiens.GRCh38.91.clean.fa raw/ --bam-in mm2/pass_new_pri_ns.bam --train-iterations 3 --rna --init-model train/moves_k1/it3.model.npz -k 2 --kmer-shift 1 --out-dir train/moves_k1/it3.k2.sh1 
+uncalled train Homo_sapiens.GRCh38.91.clean.fa raw/ --bam-in mm2/pass_new_pri_ns.bam --train-iterations 3 --rna --init-model train/moves_k1/it3.k2.sh1/it3.model.npz -k 3 --kmer-shift 2 --out-dir train/moves_k1/it3.k2.sh1/it3.k3.sh2  -p 4
+uncalled train Homo_sapiens.GRCh38.91.clean.fa raw/ --bam-in mm2/pass_new_pri_ns.bam --train-iterations 3 --rna --init-model train/moves_k1/it3.k2.sh1/it3.k3.sh2/it3.model.npz -k 4 --kmer-shift 3 --out-dir train/moves_k1/it3.k2.sh1/it3.k3.sh2/it3.k4.sh3  -p 4
+uncalled train Homo_sapiens.GRCh38.91.clean.fa raw/ --bam-in mm2/pass_new_pri_ns.bam --train-iterations 3 --rna --init-model train/moves_k1/it3.k2.sh1/it3.k3.sh2/it3.k4.sh3/it3.model.npz -k 5 --kmer-shift 3 --out-dir train/moves_k1/it3.k2.sh1/it3.k3.sh2/it3.k4.sh3/it3.k5.sh3  -p 4
+#final k-mer model found in train/moves_k1/it3.k2.sh1/it3.k3.sh2/it3.k4.sh3/it3.k5.sh3/it3.model.npz
